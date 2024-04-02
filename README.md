@@ -68,8 +68,8 @@ Content column 1 | Content column 2
 ***
 ___
 
-\*literal asterisks\*
-*literal asterisks
-__\*\*Text\*\*__
-_\_Tom\__
+\*literal asterisks\*  
+*literal asterisks  
+__\*\*Text\*\*__  
+_\_Tom\__  
 
