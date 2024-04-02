@@ -76,3 +76,5 @@ _\_Tom\__
 Github supports emoji!  
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:  
 [EMOJI 사이트](http://emoji-cheat-sheet.com "이모지")  
+
+[배지(badge) 만들기(https://shields.io "배지")
