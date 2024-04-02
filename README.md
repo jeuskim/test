@@ -40,7 +40,7 @@ function test() {
 
 As Grace Hopper said:
 
-> I've always been more interested.
+> I've always been more interested.  
 > in the future than in the past.
 
 *This test will be italic*
