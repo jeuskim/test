@@ -1,0 +1,38 @@
+# 강민성의 고민
+
+* 재우가 어느 정도 수준이 감이 안온다.
+* 재우가 어느 분야로 취업을 할건지 모르겠다.
+* 그리고 사실 내가 해줄 수 있는 건 백앤드 뿐
+
+
+
+# 커리큘럼
+
+* 백앤드 개발자의 로드맵 : https://roadmap.sh/backend
+* 프로그래밍 언어에 대한 학습
+    * java
+        * 자바의정석 1, 2
+* 포트폴리오를 만들 프로젝트 1개
+    * 스프링인강
+        * 스프링
+            * 링크 : https://www.inflearn.com/roadmaps/373
+            * 스프링 MVC 2편까지
+        * JPA : https://www.inflearn.com/roadmaps/149
+    * 너가 만들고 싶은 프로젝트를 나한테 말해주면 같이 기능 명세 뽑기
+    * 문서화 작업들
+    * 주 단위로 30분~1시간 정도 온/오프라인으로 만나서 플래닝
+    * 상시 코드리뷰
+* 알고리즘
+    * 알고리즘 공부 (하루에 한 문제 정도) 
+        * 백준 + solved ac
+* CS 지식 (DB, OS, network, WEB, data structure)
+    * 한 과목 당 책 한 권 정독하는게 베스트
+    * 취업준비용 겉핥기 : https://github.com/ksundong/backend-interview-question?tab=readme-ov-file#CS-%EA%B4%80%EB%A0%A8-%EC%A7%80%EC%8B%9D
+* 블로그 or github
+
+
+
+# 당장 시작할 것
+
+* 자바의 정석 1, 2
+* 백준에서 하루 한 문제 알고리즘 풀기
