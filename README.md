@@ -73,3 +73,6 @@ ___
 __\*\*Text\*\*__  
 _\_Tom\__  
 
+Github supports emoji!  
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:  
+[EMOJI 사이트](http://emoji-cheat-sheet.com "이모지")  
